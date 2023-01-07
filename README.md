@@ -1,2 +1,2 @@
 # Medical-insurance-
-analyzing and predicting insurance charge based on BMI and health factors and lifestyle
+Analyzing and predicting insurance charge based on BMI, health factors , Gender and lifestyle
